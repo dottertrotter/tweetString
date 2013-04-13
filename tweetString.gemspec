@@ -5,6 +5,5 @@ Gem::Specification.new do |s|
   s.summary     = "TweetString"
   s.description = "A gem to translate tweets"
   s.authors     = ["Brad Marsh"]
-  #s.email       = 'nick@quaran.to'
   s.files       = ["lib/tweetString.rb","lib/tweetString/translator.rb"]
 end
